@@ -1,8 +1,8 @@
  <?php
 $servername = "localhost";
 $username = "root";
-$password = "Nikk12*#";
-$db='php_learning';
+$password = " ";
+$db='code-adept-db';
 
 
 if($conn=mysqli_connect($servername,$username,$password)) 
